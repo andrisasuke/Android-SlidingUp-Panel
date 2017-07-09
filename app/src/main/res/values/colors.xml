@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="soft_gray">#e1dde3</color>
+    <color name="toolbar_grey">#58595b</color>
+    <color name="login_background">#ffc822</color>
+    <color name="yellow_button">#ffc822</color>
+    <color name="signup_button">#605f62</color>
+    <color name="white">#ffffff</color>
+</resources>
